@@ -8,7 +8,7 @@ It shows whether spring bones settle or jump when an animation restarts. The rig
 
 ## Build and run
 
-Open the project in a double-precision build of the engine's editor, version 4.4 or later, and run `node_3d.tscn`.
+Open the project in a double-precision build of the engine's editor that has the spring-bone simulator node, and run `node_3d.tscn`.
 
 ## Licence
 
